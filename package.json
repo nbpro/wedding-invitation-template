@@ -1,10 +1,16 @@
 {
-"name": "preety and neeraj wedding site",
-"version": "1.0",
+"name": "preety-and-neeraj-wedding-site",
+"version": "1.0.0",
 "main": "index.html",
 "engines": {
 "node": "4.0.0"
 },
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
 "repository": {
 "type": "git",
 "url": "https://github.com/nbpro/wedding-invitation-template"
