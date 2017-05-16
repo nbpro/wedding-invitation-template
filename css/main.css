@@ -20,7 +20,11 @@ body,
     text-shadow: 4px 4px 4px #aaa;
 }
 .marriage-date{
-    font-family: Roboto, sans-serif;
-    font-size : 20px;
+    font-family: 'Indie Flower', "Bodoni Ornaments";
+    font-size : 35px;
     text-shadow: #aee664;
+}
+.invitation{
+    font-family: "American Typewriter";
+    font-size: 18px;
 }
